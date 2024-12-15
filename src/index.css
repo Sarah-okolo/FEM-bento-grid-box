@@ -1,19 +1,5 @@
-/* - Purple 100: hsl(254, 88%, 90%)
-- Purple 500: hsl(256, 67%, 59%)
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Space+Grotesk&display=swap');
 
-- Yellow 100: hsl(31, 66%, 93%)
-- Yellow 500: hsl(39, 100%, 71%)
-
-- White: hsl(0, 0%, 100%)
-- Black: hsl(0, 0%, 7%)
-
-## Typography
-
-### Body Copy
-
-- Font size (paragraph): 18px
-
-### Font
-
-- Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
-- Weights: 400, 500 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
