@@ -6,7 +6,7 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Solution screenshots](#solution-screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,9 +21,11 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 
-### Screenshot
+### Solution screenshots
 
-![](./screenshot.jpg)
+![Desktop preview](/design/Screenshot-desktop-bento%20grid-box.png)
+![Mobile preview](/design/Screenshot-mobile-bento%20grid-box.png)
+
 
 ### Links
 
@@ -38,11 +40,12 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [TailwindCSS]() - CSS framework
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework
 
 
 ### What I learned
 
+In this project, I learned how to utilize the CSS grid to create a Bento grid layout.
 
 ## Author
 
