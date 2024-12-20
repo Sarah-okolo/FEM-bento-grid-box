@@ -49,4 +49,4 @@ In this project, I learned how to utilize the CSS grid to create a Bento grid la
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sarah-okolo)
+- Frontend Mentor - [@Sarah-Okolo](https://www.frontendmentor.io/profile/sarah-okolo)
